@@ -40,3 +40,10 @@ Making Predictions on the Test set
 Error of Predictions  
 Plottting the results  
 Making Prediction on one sample
+
+## Future work  
+There some suggestions to make a better project and better predictions.
+1. Model training can be done with another code so that the result does not change every time we run this file.
+2. Predictions on test set can be done using predicted values.
+3. Input feature can be all of the features of dataset, not just the 'national' PSI.
+4. This data is cyclostationary and statistical properties vary cyclically with time. Probably these statistical properties has a period of one week or one year. Therefore, we can add 2 new parameters that indicate the time of the week (0 to 6 days or 0 to 7\*8-1) and the time of the year (0 to 354 days or 0 to 365\*8-1) to acheive better predictions.
