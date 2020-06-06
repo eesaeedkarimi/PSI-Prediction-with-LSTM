@@ -22,7 +22,8 @@ Imports and defining base functions
 1. Read, Explore and Prepare Data  
 Reading Data  
 Preparing date and time  
-Adding a column for **diff_hour**: difference of record time between consecutive rows, data exploration  
+Adding a column for **diff_hour**: difference of record time between consecutive rows  
+Data exploration  
 Plotting Histogram of PSI values and diff_hour value  
 Sampling the dataset  
 2. Creating Train and Test Datasets
