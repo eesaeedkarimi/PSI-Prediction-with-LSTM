@@ -1,4 +1,4 @@
-# YapAiTek-Assessment
+# PSI Prediction with LSTM
 Predict Pollutant Standards Index (PSI) levels in Singapore with precision.  
 
 In this assessment, we seek to understand changes in air quality in Singapore from 2016 to 2019.  
@@ -11,9 +11,9 @@ There are four bands on the PM2.5 concentration scale:
 
 It is asked you to predict PSI levels in Singapore with precision.  
 
-PSI records are in [psi_df_2016_2019.csv](https://github.com/eesaeedkarimi/YapAiTek-Assessment/blob/master/psi_df_2016_2019.csv)
+PSI records are in [psi_df_2016_2019.csv](https://github.com/eesaeedkarimi/PSI-Prediction-with-LSTM/blob/master/psi_df_2016_2019.csv)
 
-[PSI_Prediction.ipynb](https://github.com/eesaeedkarimi/YapAiTek-Assessment/blob/master/PSI_Prediction.ipynb) presents a solotion to this task.
+[PSI_Prediction.ipynb](https://github.com/eesaeedkarimi/PSI-Prediction-with-LSTM/blob/master/PSI_Prediction.ipynb) presents a solotion to this task.
 
 The solution consists of 5 steps.
 
